@@ -1,0 +1,5 @@
+[ 2024-12-26 18:51:47,925 ] 26 root - INFO - Entered the data ingestion method
+[ 2024-12-26 18:51:47,925 ] 32 root - INFO - Read dataset as a DataFrame
+[ 2024-12-26 18:51:47,941 ] 39 root - INFO - Raw data saved at: artifacts\data.csv
+[ 2024-12-26 18:51:47,941 ] 42 root - INFO - Train-test split initiated
+[ 2024-12-26 18:51:47,944 ] 48 root - INFO - Data ingestion completed successfully
